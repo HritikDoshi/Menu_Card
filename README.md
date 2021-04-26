@@ -1,6 +1,6 @@
 # Menu_Card
 
-It was a small assignment of creating a menu card just like shown in an image formate.
+It was a small assignment of creating a menu card just like shown in an image format.
 
 [Demo](https://hritikdoshi.github.io/Menu_Card/index.html)
 
